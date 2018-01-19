@@ -1,4 +1,4 @@
-package javaessential;
+package javafundamentals;
 
 public class DemoWithArguments {
 	public static void main(String[] args)
