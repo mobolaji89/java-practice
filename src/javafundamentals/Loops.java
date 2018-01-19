@@ -1,7 +1,7 @@
 /*
  * This program includes an example of a for loop, while loop and do...while loop
  */
-package javaessential;
+package javafundamentals;
 
 import java.util.*;
 
