@@ -1,6 +1,12 @@
+/*
+Given a string s, return true if it is a palindrome, false otherwise.
+
+A string is a palindrome if it reads the same forward as backward. That means, after reversing it, it is still the same string. For example: "abcdcba", or "racecar".
+*/
+
 package arraysandstrings;
 
-class Main {
+class checkPalindrome {
   public static void main(String[] args) {
 	String palindrome = "racecar";
     System.out.println(checkIfPalindrome(palindrome));
