@@ -6,7 +6,7 @@ A string is a palindrome if it reads the same forward as backward. That means, a
 
 package arraysandstrings;
 
-class checkPalindrome {
+class Palindrome {
   public static void main(String[] args) {
 	String palindrome = "racecar";
     System.out.println(checkIfPalindrome(palindrome));

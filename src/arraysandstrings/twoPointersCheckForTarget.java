@@ -6,7 +6,7 @@ For example, given nums = [1, 2, 4, 6, 8, 9, 14, 15] and target = 13, return tru
 
 package arraysandstrings;
 
-class checkTarget {
+class Target {
   public static void main(String[] args) {
 	int[] nums = {1, 2, 4, 6, 8, 9, 14, 15};
 	int target = 13;
